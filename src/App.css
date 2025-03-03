@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.info{
+  display: flex;
+  justify-content: left;
+  text-align: start;
+}
+.info ul li{
+  text-align: left;
+  margin-bottom: 10px;
+}
+.info ul li p, .info ul li h5{
+  margin: 0;
+}
+
+.main{
+  text-align: start;
+  padding-left: 30px;
+}
