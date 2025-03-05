@@ -54,3 +54,14 @@
   text-align: start;
   padding-left: 30px;
 }
+
+.form{
+  width: 20%;
+  border: 1px solid #2f3435;
+  padding: 20px;
+}
+.inputs{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}

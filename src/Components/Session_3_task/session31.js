@@ -7,7 +7,7 @@ class Session31 extends Component {
         let {name,age} = this.props
         return (
             <div className="main">
-                <h2>task 2</h2>
+                <h2>task 2 (Default props using class component)</h2>
                 <h5>Name: {name}</h5>
                 <h5>Age: {age}</h5>
             </div>
